@@ -1,0 +1,6 @@
+/Users/developer/Projects/MultiApp 2/bin/Debug/RssReader2.dll
+/Users/developer/Projects/MultiApp 2/bin/Debug/com.refractored.monodroidtoolkit.dll
+/Users/developer/Projects/MultiApp 2/bin/Debug/DK.Ostebaronen.Droid.ViewPagerIndicator.dll
+/Users/developer/Projects/MultiApp 2/Components/xamandroidsupportv4-18-4.19.0.1/lib/android/Xamarin.Android.Support.v4.dll
+/Users/developer/Downloads/Seminars-master/2012-11-29-BarcodeScanning/ZXing.Net.Mobile/Build/Debug/monodroid/ZXing.Net.MonoForAndroid.dll
+/Users/developer/Downloads/Seminars-master/2012-11-29-BarcodeScanning/ZXing.Net.Mobile/src/ZXing.Net.Mobile/bin/Debug/ZXing.Net.Mobile.MonoForAndroid.dll

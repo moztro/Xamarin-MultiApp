@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0393D583-541C-43B7-8693-ABD7B6548E6F}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RssReader2</RootNamespace>
+    <AssemblyName>RssReader2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <AndroidApplication>true</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <TargetFrameworkVersion>v4.2</TargetFrameworkVersion>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <AndroidSupportedAbis>armeabi%3barmeabi-v7a%3bx86</AndroidSupportedAbis>
+    <MandroidI18n />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+    <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
+    <AndroidStoreUncompressedFileExtensions>
+    </AndroidStoreUncompressedFileExtensions>
+    <JavaMaximumHeapSize>
+    </JavaMaximumHeapSize>
+    <JavaOptions>
+    </JavaOptions>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="com.refractored.monodroidtoolkit">
+      <HintPath>..\..\CommonDlls\com.refractored.monodroidtoolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="DK.Ostebaronen.Droid.ViewPagerIndicator">
+      <HintPath>..\..\CommonDlls\DK.Ostebaronen.Droid.ViewPagerIndicator.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Android" />
+    <Reference Include="Mono.Android.Export" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Xamarin.Android.Support.v4">
+      <HintPath>Components\xamandroidsupportv4-18-4.19.0.1\lib\android\Xamarin.Android.Support.v4.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Activities\HomeActivity.cs" />
+    <Compile Include="Fragments\BrowseFragment.cs" />
+    <Compile Include="Helpers\MyActionBarDrawerToggle.cs" />
+    <Compile Include="Resources\Resource.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Enums\Tag.cs" />
+    <Compile Include="Models\Post.cs" />
+    <Compile Include="Adapters\PostAdapter.cs" />
+    <Compile Include="Fragments\NewsFragment.cs" />
+    <Compile Include="Utils\GetRssData.cs" />
+    <Compile Include="Models\Car.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Enums\Motive.cs" />
+    <Compile Include="Persistence\SQLite.cs" />
+    <Compile Include="Adapters\CarAdapter.cs" />
+    <Compile Include="Fragments\AddUserFragment.cs" />
+    <Compile Include="Fragments\MyCarsFragment.cs" />
+    <Compile Include="Fragments\ScanFragment.cs" />
+    <Compile Include="Persistence\Database.cs" />
+    <Compile Include="Persistence\UserRepository.cs" />
+    <Compile Include="Adapters\GenericAdapter.cs" />
+    <Compile Include="Fragments\MyFragment.cs" />
+    <Compile Include="Utils\IntentUtils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\Layout\item_menu.axml" />
+    <AndroidResource Include="Resources\Layout\page_home_view.axml" />
+    <AndroidResource Include="Resources\Layout\fragment_browse.axml" />
+    <AndroidResource Include="Resources\Drawable\rss_launcher.png" />
+    <AndroidResource Include="Resources\Drawable\news.jpg" />
+    <AndroidResource Include="Resources\Layout\fragment_news.axml" />
+    <AndroidResource Include="Resources\Layout\item.axml" />
+    <AndroidResource Include="Resources\Menu\menuBar.xml" />
+    <AndroidResource Include="Resources\Drawable\search.ico" />
+    <AndroidResource Include="Resources\Drawable\angry_birds_minion.png" />
+    <AndroidResource Include="Resources\Drawable\bat_mobile.png" />
+    <AndroidResource Include="Resources\Drawable\bat_pod.png" />
+    <AndroidResource Include="Resources\Drawable\flintmobile.png" />
+    <AndroidResource Include="Resources\Drawable\hot_wheels_logo.png" />
+    <AndroidResource Include="Resources\Drawable\island_chopper.png" />
+    <AndroidResource Include="Resources\Drawable\red_bird.png" />
+    <AndroidResource Include="Resources\Drawable\school_bus.png" />
+    <AndroidResource Include="Resources\Drawable\sharkruiser.png" />
+    <AndroidResource Include="Resources\Drawable\tv_series_batmobile.png" />
+    <AndroidResource Include="Resources\Layout\car_item.axml" />
+    <AndroidResource Include="Resources\Layout\fragment_mycars.axml" />
+    <AndroidResource Include="Resources\Layout\fragment_users_register.axml" />
+    <AndroidResource Include="Resources\Values\Strings.xml" />
+    <AndroidResource Include="Resources\Layout\scanner_view.axml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\AndroidManifest.xml" />
+    <AndroidResource Include="Resources\Drawable-hdpi\drawer_shadow_dark.9.png" />
+    <AndroidResource Include="Resources\Drawable-hdpi\drawer_shadow_light.9.png" />
+    <AndroidResource Include="Resources\Drawable-hdpi\ic_drawer_dark.png" />
+    <AndroidResource Include="Resources\Drawable-hdpi\ic_drawer_light.png" />
+    <AndroidResource Include="Resources\Drawable-hdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\Drawable-hdpi\ic_menu_refresh.png" />
+    <AndroidResource Include="Resources\Drawable\background_card.9.png" />
+    <AndroidResource Include="Resources\Drawable\background_card_inverse.9.png" />
+    <AndroidResource Include="Resources\Drawable-mdpi\drawer_shadow_dark.9.png" />
+    <AndroidResource Include="Resources\Drawable-mdpi\drawer_shadow_light.9.png" />
+    <AndroidResource Include="Resources\Drawable-mdpi\ic_drawer_dark.png" />
+    <AndroidResource Include="Resources\Drawable-mdpi\ic_drawer_light.png" />
+    <AndroidResource Include="Resources\Drawable-mdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\Drawable-mdpi\ic_menu_refresh.png" />
+    <AndroidResource Include="Resources\Drawable-xhdpi\ic_menu_refresh.png" />
+    <AndroidResource Include="Resources\Drawable-xhdpi\drawer_shadow_dark.9.png" />
+    <AndroidResource Include="Resources\Drawable-xhdpi\drawer_shadow_light.9.png" />
+    <AndroidResource Include="Resources\Drawable-xhdpi\ic_drawer_dark.png" />
+    <AndroidResource Include="Resources\Drawable-xhdpi\ic_drawer_light.png" />
+    <AndroidResource Include="Resources\Drawable-xhdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\Drawable-xxhdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\Values\colors.xml" />
+    <AndroidResource Include="Resources\Values\integers.xml" />
+    <AndroidResource Include="Resources\Values\styles.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\Values-land\integers.xml" />
+    <AndroidResource Include="Resources\Values-v11\styles.xml" />
+    <AndroidResource Include="Resources\Values-v14\styles.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <XamarinComponentReference Include="xamandroidsupportv4-18">
+      <Version>4.19.0.1</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+     Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Folder Include="Enums\" />
+    <Folder Include="Models\" />
+    <Folder Include="Adapters\" />
+    <Folder Include="Utils\" />
+    <Folder Include="Persistence\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Downloads\Seminars-master\2012-11-29-BarcodeScanning\ZXing.Net.Mobile\src\ZXing.Net\zxing.monoandroid.csproj">
+      <Project>{8971B59D-78F1-49BA-808D-CBADB37F571F}</Project>
+      <Name>zxing.monoandroid</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Downloads\Seminars-master\2012-11-29-BarcodeScanning\ZXing.Net.Mobile\src\ZXing.Net.Mobile\ZXing.Net.Mobile.MonoForAndroid.csproj">
+      <Project>{D72228AC-C356-4E1A-B56F-91C9A25F7286}</Project>
+      <Name>ZXing.Net.Mobile.MonoForAndroid</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

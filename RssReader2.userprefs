@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fragments/AddUserFragment.cs">
+    <Files>
+      <File FileName="Activities/HomeActivity.cs" Line="97" Column="3" />
+      <File FileName="Fragments/ScanFragment.cs" Line="29" Column="42" />
+      <File FileName="Adapters/CarAdapter.cs" Line="1" Column="1" />
+      <File FileName="Fragments/AddUserFragment.cs" Line="28" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RssReader2 AndroidDeviceId-Debug="192.168.56.101:5555" MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" />
+</Properties>

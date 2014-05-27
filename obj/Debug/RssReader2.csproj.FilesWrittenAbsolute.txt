@@ -1,0 +1,190 @@
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/MonoAndroid,Version=v4.2.AssemblyAttribute.cs
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/bin/Debug/RssReader2.dll.mdb
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/bin/Debug/RssReader2.dll
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/bin/Debug/com.refractored.navdrawer.sample.apk
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/android/bin/com.refractored.navdrawer.sample.apk
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/layout/fragment_friends_all.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/layout/fragment_friends_recent.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/layout/fragment_profile.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/layout/item_menu.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/layout/item_monkey.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/layout/page_friend.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/layout/page_home_view.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/layout/fragment_browse.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/layout/fragment_friends.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable/rss_launcher.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable/news.jpg
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/layout/fragment_news.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/layout/item.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/menu/menubar.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable/search.ico
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-hdpi/drawer_shadow_dark.9.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-hdpi/drawer_shadow_light.9.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-hdpi/ic_drawer_dark.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-hdpi/ic_drawer_light.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-hdpi/ic_launcher.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-hdpi/ic_menu_refresh.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable/background_card.9.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable/background_card_inverse.9.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-mdpi/drawer_shadow_dark.9.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-mdpi/drawer_shadow_light.9.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-mdpi/ic_drawer_dark.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-mdpi/ic_drawer_light.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-mdpi/ic_launcher.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-mdpi/ic_menu_refresh.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-xhdpi/ic_menu_refresh.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-xhdpi/drawer_shadow_dark.9.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-xhdpi/drawer_shadow_light.9.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-xhdpi/ic_drawer_dark.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-xhdpi/ic_drawer_light.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-xhdpi/ic_launcher.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/drawable-xxhdpi/ic_launcher.png
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/values/colors.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/values/integers.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/values/strings.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/values/styles.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/values-land/integers.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/values-v11/styles.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/res/values-v14/styles.xml
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/R.cs.flag
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/bin/Debug/com.refractored.navdrawer.sample-Signed.apk
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/uploadflags.txt
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/RssReader2.dll
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/obj/Debug/RssReader2.dll.mdb
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/bin/Debug/com.refractored.monodroidtoolkit.dll
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/bin/Debug/DK.Ostebaronen.Droid.ViewPagerIndicator.dll
+/Users/developer/Downloads/Xam.NavDrawer-master 2/Sample/NavDrawer/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/developer/Projects/MultiApp/obj/Debug/MonoAndroid,Version=v4.2.AssemblyAttribute.cs
+/Users/developer/Projects/MultiApp/bin/Debug/RssReader2.dll.mdb
+/Users/developer/Projects/MultiApp/bin/Debug/RssReader2.dll
+/Users/developer/Projects/MultiApp/bin/Debug/com.refractored.navdrawer.sample.apk
+/Users/developer/Projects/MultiApp/obj/Debug/android/bin/com.refractored.navdrawer.sample.apk
+/Users/developer/Projects/MultiApp/obj/Debug/res/layout/item_menu.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/layout/page_home_view.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/layout/fragment_browse.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/rss_launcher.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/news.jpg
+/Users/developer/Projects/MultiApp/obj/Debug/res/layout/fragment_news.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/layout/item.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/menu/menubar.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/search.ico
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-hdpi/drawer_shadow_dark.9.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-hdpi/drawer_shadow_light.9.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-hdpi/ic_drawer_dark.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-hdpi/ic_drawer_light.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-hdpi/ic_launcher.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-hdpi/ic_menu_refresh.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/background_card.9.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/background_card_inverse.9.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-mdpi/drawer_shadow_dark.9.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-mdpi/drawer_shadow_light.9.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-mdpi/ic_drawer_dark.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-mdpi/ic_drawer_light.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-mdpi/ic_launcher.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-mdpi/ic_menu_refresh.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-xhdpi/ic_menu_refresh.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-xhdpi/drawer_shadow_dark.9.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-xhdpi/drawer_shadow_light.9.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-xhdpi/ic_drawer_dark.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-xhdpi/ic_drawer_light.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-xhdpi/ic_launcher.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable-xxhdpi/ic_launcher.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/values/colors.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/values/integers.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/values/strings.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/values/styles.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/values-land/integers.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/values-v11/styles.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/values-v14/styles.xml
+/Users/developer/Projects/MultiApp/obj/Debug/R.cs.flag
+/Users/developer/Projects/MultiApp/bin/Debug/com.refractored.navdrawer.sample-Signed.apk
+/Users/developer/Projects/MultiApp/obj/Debug/uploadflags.txt
+/Users/developer/Projects/MultiApp/obj/Debug/RssReader2.dll
+/Users/developer/Projects/MultiApp/obj/Debug/RssReader2.dll.mdb
+/Users/developer/Projects/MultiApp/bin/Debug/com.refractored.monodroidtoolkit.dll
+/Users/developer/Projects/MultiApp/bin/Debug/DK.Ostebaronen.Droid.ViewPagerIndicator.dll
+/Users/developer/Projects/MultiApp/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/angry_birds_minion.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/bat_mobile.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/bat_pod.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/flintmobile.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/hot_wheels_logo.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/island_chopper.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/red_bird.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/school_bus.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/sharkruiser.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/drawable/tv_series_batmobile.png
+/Users/developer/Projects/MultiApp/obj/Debug/res/layout/car_item.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/layout/fragment_mycars.xml
+/Users/developer/Projects/MultiApp/obj/Debug/res/layout/fragment_users_register.xml
+/Users/developer/Projects/MultiApp/bin/Debug/ZXing.Net.MonoForAndroid.dll
+/Users/developer/Projects/MultiApp/bin/Debug/ZXing.Net.MonoForAndroid.dll.mdb
+/Users/developer/Projects/MultiApp/bin/Debug/ZXing.Net.Mobile.MonoForAndroid.dll
+/Users/developer/Projects/MultiApp/obj/Debug/res/layout/scanner_view.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/MonoAndroid,Version=v4.2.AssemblyAttribute.cs
+/Users/developer/Projects/MultiApp 2/bin/Debug/RssReader2.dll.mdb
+/Users/developer/Projects/MultiApp 2/bin/Debug/RssReader2.dll
+/Users/developer/Projects/MultiApp 2/bin/Debug/com.refractored.navdrawer.sample.apk
+/Users/developer/Projects/MultiApp 2/obj/Debug/android/bin/com.refractored.navdrawer.sample.apk
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/layout/item_menu.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/layout/page_home_view.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/layout/fragment_browse.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/rss_launcher.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/news.jpg
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/layout/fragment_news.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/layout/item.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/menu/menubar.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/search.ico
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/angry_birds_minion.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/bat_mobile.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/bat_pod.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/flintmobile.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/hot_wheels_logo.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/island_chopper.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/red_bird.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/school_bus.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/sharkruiser.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/tv_series_batmobile.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/layout/car_item.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/layout/fragment_mycars.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/layout/fragment_users_register.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/values/strings.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/layout/scanner_view.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-hdpi/drawer_shadow_dark.9.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-hdpi/drawer_shadow_light.9.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-hdpi/ic_drawer_dark.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-hdpi/ic_drawer_light.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-hdpi/ic_launcher.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-hdpi/ic_menu_refresh.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/background_card.9.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable/background_card_inverse.9.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-mdpi/drawer_shadow_dark.9.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-mdpi/drawer_shadow_light.9.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-mdpi/ic_drawer_dark.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-mdpi/ic_drawer_light.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-mdpi/ic_launcher.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-mdpi/ic_menu_refresh.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-xhdpi/ic_menu_refresh.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-xhdpi/drawer_shadow_dark.9.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-xhdpi/drawer_shadow_light.9.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-xhdpi/ic_drawer_dark.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-xhdpi/ic_drawer_light.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-xhdpi/ic_launcher.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/drawable-xxhdpi/ic_launcher.png
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/values/colors.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/values/integers.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/values/styles.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/values-land/integers.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/values-v11/styles.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/res/values-v14/styles.xml
+/Users/developer/Projects/MultiApp 2/obj/Debug/R.cs.flag
+/Users/developer/Projects/MultiApp 2/bin/Debug/com.refractored.navdrawer.sample-Signed.apk
+/Users/developer/Projects/MultiApp 2/obj/Debug/uploadflags.txt
+/Users/developer/Projects/MultiApp 2/obj/Debug/RssReader2.dll
+/Users/developer/Projects/MultiApp 2/obj/Debug/RssReader2.dll.mdb
+/Users/developer/Projects/MultiApp 2/bin/Debug/com.refractored.monodroidtoolkit.dll
+/Users/developer/Projects/MultiApp 2/bin/Debug/DK.Ostebaronen.Droid.ViewPagerIndicator.dll
+/Users/developer/Projects/MultiApp 2/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/developer/Projects/MultiApp 2/bin/Debug/ZXing.Net.MonoForAndroid.dll
+/Users/developer/Projects/MultiApp 2/bin/Debug/ZXing.Net.MonoForAndroid.dll.mdb
+/Users/developer/Projects/MultiApp 2/bin/Debug/ZXing.Net.Mobile.MonoForAndroid.dll

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">XamDroid.NavigationDrawer.MvxSample.Droid</string>
+    <string name="app_title">Hot Wheels</string>
+	<string name="drawer_open">Open</string>
+	<string name="drawer_close">Close</string>
+	<string name="search">Search...</string>
+	<string name="create_account">Create an Account</string>
+	<string name="button_create_button_text">Create account</string>
+	<string name="create_account_instructions">Type a username and password. Then click on the Create account button to continue</string>
+	<string name="button_scan_cancel">Cancel</string>
+	<string name="button_scan_torch">Torch</string>
+
+  <!--- FEEDS -->
+  <string name="rss_fge">http://www.fge.yucatan.gob.mx/views/rss/boletines/feed.php</string>
+</resources>
